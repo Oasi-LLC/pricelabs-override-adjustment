@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nca-toolkit-project-446011",
+  "private_key_id": "67d246fdbccf05d531de686d4b906af70f12adda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDYWYFHoB5eHfDt\nSnadyunF5zZQKz18oQBAJYFyrjaas8UOqC4aRCQiIJmin+u48/JFCviD4D1oA91M\nKAvm6xzZNnlAoUru08+SM0anLseCxm+48aytcLegZUCLZm31VQOxmQriXjVT3HWY\nHwziVDb88meJXMfxlZT44COzWRjSsSxT8HW96I51vftL8b8+v1q+s6htAhCe9InJ\njXGaDpB3zNR+CphX1ufG8DnITa0E+OT7Vum56d1CXWtEYTcDjR6DsrUlhx9T9V0L\nylCHuH83cWNTc8MYVGeTYKJRYPHghMbPjrTyXkRhLdrk3xQgyiTzfSV39iEUbCkS\n5lOOy6YhAgMBAAECggEAK26Yde0Oe51uIuzacCXulUSr0h9EGjNmDfqZiJCxtI/X\nRPB9RNeeG13JCe0p0LjkT3j619qZ6ToxYFr/vK1BXtfBMrjOhrBt0K9LhT9uXPIC\nNrIJlM32hxQch3+aHnChK7OKDFSWRw4Qa2f8WalHWrM9FsXR+80oGWhBsnz170G0\nknX9jn7QSSf75dN+GqE+dEOvUg+DcrMLSDorfvwEHR6pazz4DcuypbmaxPPXOC1l\nbnDWbkt5fpnUAyJsg7a5+JjJ2l5Nkgmln84ws1qvMhQIsdZX8PyZE5ac2LqCVWUd\nXxA2o9vxpsrPQkEVNIAbq6wcimXXgUPbylvLkcHn2wKBgQD0S+WLyEslv7u/4jml\naBCWPai0vL3/8X9VsCgyv6ZJ/8NzWp3Pm2YbS8zj37VUD1oeP0pzUkWqrA1wUavd\nY89XEXJ3af/TFwGkoDbcOM3+giTD+XaO34Nvk/xZuv25+VEmW8pFZT/UnEquGBIo\nF0lHxEAZZoNbBNLFVGz62eaMiwKBgQDittzEzfY9RXy6sRznn+vB24yb6w1KYFYA\nu/9qyVUn4023JRw42SphkfeYDh4qvwdDlKaNrJLL5VDLmP0PVJbv7CkOzm3Rk9tz\n+jeIyXmRNBpgXkdh5y3hN+TuieN5mG08pfoqTHBL5MAwO6z0BeXFKvZBK0V/JNmc\nIRh03IWRgwKBgCPShURsCGjupo9Kkv1oNxZw0C5AhvPi67Ma86oNZErxkC14Gi/5\nL43NHaxEf4hl/+bzjO1AISsXs5jGwRbjreGsk0Zjarn/Y6RKQgEk6z/owY9jIzls\nGQ/heV2HB/GfV4DycMSgRi3dBS5mJTNvxrUZV/ThjV1pZaa97IUUMrRlAoGAJOd3\nUGHmb1rcTtd9yQZzLf87CDZe13iPB1eS4CMdxXxurh1QVsCi8Xb9QrcpmfO2jv2n\njvBEhQQy/rFMoC44050xocNghPj4hAx69b02GLjOgllWbU1gXoTmsx2m9agmP/UU\nn8YJkZEO58sPADnliQ7RPxJ4IZYyBgQtIviylVkCgYA/d3IBslaVl7TvrTJmw5GN\nfEA4/8+Fi7rxBnremhzEbKBQ7Jezc3rI8OmH6ner4Mm7oLnln1fgmPCYNHBa8UCJ\nQLOakrnsmSWpaYBqq4T4Gg+tcTBRH7NWWvMmYk1f48IUDDn5ZO0hbdZYanVtT6XJ\n14IRuRsChx2A+AXN4teTkw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nca-toolkit-service-account@nca-toolkit-project-446011.iam.gserviceaccount.com",
+  "client_id": "102022782508675911231",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nca-toolkit-service-account%40nca-toolkit-project-446011.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
